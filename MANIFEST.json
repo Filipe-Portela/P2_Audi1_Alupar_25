@@ -1,0 +1,111 @@
+{
+  "package": "Dossiê de Auditoria ALUPAR",
+  "version": "4.0-final",
+  "created_on": "2026-10-21",
+  "preparer": "Filipe Mateus Sanxo Parente Portela",
+  "matricula": "221018138",
+  "file_count": 20,
+  "files": [
+    {
+      "path": "README.md",
+      "size_bytes": 8970,
+      "sha256": "0e7da66f8afc365f470453f8fb0d517558ed9336b9f243b79c1f2c04fb1f6076"
+    },
+    {
+      "path": "codigo/analisar_base.py",
+      "size_bytes": 3551,
+      "sha256": "4190b2ed507530a14c9cd1d4243cf3c31524ae48b1c63f74522ca2476940e8d3"
+    },
+    {
+      "path": "codigo/gerar_base.py",
+      "size_bytes": 7046,
+      "sha256": "8954b02a1a6cc7daf77047bb88024e937b0f2130a0041dc7bd57247f7ce81367"
+    },
+    {
+      "path": "dados/amostra_dirigida_25_maiores.csv",
+      "size_bytes": 2463,
+      "sha256": "ce6b4b1dc1ad94c30abe06ca9d2c523c358d7796d4dcd8fbbf80dad39caa0fa7"
+    },
+    {
+      "path": "dados/amostra_sistematica_100.csv",
+      "size_bytes": 8457,
+      "sha256": "d1b43f0ccce251498d70de2807617770594d0d52764659dc4f52a5b507f7cdfc"
+    },
+    {
+      "path": "dados/base_sintetica_ativo_contratual_500000.csv",
+      "size_bytes": 45732630,
+      "sha256": "fdc21eb12d8cfdbce67d97d241c893157a93dbdcba4b170c1639d7d35ea7bbc0"
+    },
+    {
+      "path": "dados/dicionario_variaveis.csv",
+      "size_bytes": 1090,
+      "sha256": "f67d134242e7e7e109bc19f917e99c4d3591579a12e2e707ee4f54be6b021d83"
+    },
+    {
+      "path": "dados/registro_excecoes_inseridas.csv",
+      "size_bytes": 1376,
+      "sha256": "7b4fdcf055055ed431ef883e2bdc2e15efd1fcedfa6a63d74da548e415878709"
+    },
+    {
+      "path": "dados/relatorio_validacao_base.json",
+      "size_bytes": 652,
+      "sha256": "4c0bb35302848b44260b51969ea0859b26cc122558f090a245342c5f7435bd3b"
+    },
+    {
+      "path": "dados/resultado_testes_amostras.csv",
+      "size_bytes": 141,
+      "sha256": "1051c7637d3e1230cd2e0ffcbb9187fbe7438a24fd30e9d840dac4b2e867f384"
+    },
+    {
+      "path": "dados/resultado_testes_excecoes.csv",
+      "size_bytes": 1346,
+      "sha256": "494b6a4f8f9946f017ae0e8c807086868587c1630e71930ec4c9eac24347168d"
+    },
+    {
+      "path": "documentos/anexo_rastreabilidade_e_programas_v4.pdf",
+      "size_bytes": 18602,
+      "sha256": "e52b4264c6b317e4a7318523068b3050a2ec30501f4fa0a6f64720d23d58a7ab"
+    },
+    {
+      "path": "documentos/dossie_auditoria_alupar_v4.pdf",
+      "size_bytes": 359530,
+      "sha256": "261b39dfd87c36a784cc3902eea10758c4ac17dbe7d1759d622537b399a25811"
+    },
+    {
+      "path": "documentos/fontes.md",
+      "size_bytes": 7344,
+      "sha256": "e39e5fd0f99ce70495d48699cdb2c2267004fee12fe0107b7a5c5bbad04ad99c"
+    },
+    {
+      "path": "documentos/matriz_cobertura_normas.csv",
+      "size_bytes": 19200,
+      "sha256": "6a970ae554e66d444ff6b8a08252816d434f124176ae65c44b9feefbc87650d9"
+    },
+    {
+      "path": "documentos/rastreabilidade_itens_normativos.csv",
+      "size_bytes": 6425,
+      "sha256": "97b001caf0c778e3661d6ab39aff35ba3f9b219fe504f66db7ce6b97c8e770b8"
+    },
+    {
+      "path": "documentos/registro_de_alteracoes.md",
+      "size_bytes": 4552,
+      "sha256": "b4113ac84169b706ae60f6403941a6f80562af08e8fac16b4f963cac88a941a7"
+    },
+    {
+      "path": "documentos/relacao_fontes_utilizadas.pdf",
+      "size_bytes": 7203,
+      "sha256": "6c982c418b9a593f5a4d1064d47c2e749093af9db939f6b4da6e3a25dfb65046"
+    },
+    {
+      "path": "documentos/suplemento_procedimentos_por_norma.pdf",
+      "size_bytes": 14665,
+      "sha256": "89e4e9619fe45f019bbb4608a62e4b21d50bf1160613847f2c027d19b803f1e8"
+    },
+    {
+      "path": "planilhas/calculos_materialidade_amostragem.xlsx",
+      "size_bytes": 14661,
+      "sha256": "e86a7e415a207b800eb482a2a383495997f625ab3596b2f6437a610da0c332a4"
+    }
+  ],
+  "note": "Hashes SHA-256 calculados sobre os arquivos incluídos; a base e as exceções são sintéticas. A igualdade com o saldo divulgado foi calibrada matematicamente e não constitui conciliação contábil substantiva."
+}
